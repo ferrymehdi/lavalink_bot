@@ -56,8 +56,8 @@ Here are some of the commands you can use with this bot:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ferrymehdi/LavaPlayer-Bot.git
-   cd LavaPlayer-Bot
+   git clone https://github.com/ferrymehdi/lavalink_bot.git
+   cd lavalink_bot
 2. Configure the bot by creating a .env file in the root directory with the following structure:
    ```env
    TOKEN= #Your Bot Token
@@ -74,4 +74,4 @@ Here are some of the commands you can use with this bot:
 ### Usage
 
 1. Invite the bot to your Discord server using the OAuth2 URL generated in the [Discord Developer Portal](https://discord.com/developers/applications).
-2. Use the [commands](https://github.com/ferrymehdi/LavaPlayer-Bot/tree/main?tab=readme-ov-file#commands) listed above to interact with the bot.
+2. Use the [commands](https://github.com/ferrymehdi/lavalink_bot/tree/main?tab=readme-ov-file#commands) listed above to interact with the bot.
